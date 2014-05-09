@@ -14,6 +14,7 @@ namespace gitfinaltest
             Console.WriteLine("This is branch US1002");
             Console.WriteLine("This is branch US1004");
             Console.WriteLine("This is branch US1005");
+            Console.WriteLine("This is branch US1006");
         }
     }
 }
